@@ -40,6 +40,7 @@ public class Main {
         for (int number : numbers) {
             product *= number;
         }
+
         return product;
     }
 }
