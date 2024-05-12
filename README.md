@@ -1,0 +1,1 @@
+![Java CI](https://github.com/IakovLeven/tp2/blob/main/.github/workflows/ci.yaml)
