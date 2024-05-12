@@ -7,4 +7,4 @@
 # CI
 Прописан в .github/workflows/ci.yaml
 
-![Java CI](https://github.com/IakovLeven/REPOSITORY/tp2/workflows/ci.yaml/badge.svg)
+![Java CI](https://github.com/IakovLeven/tp2/blob/main/.github/workflows/ci.yaml/badge.svg)
