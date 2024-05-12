@@ -1,5 +1,6 @@
 package main;
 
+import main.Main;
 import org.openjdk.jmh.annotations.*;
 
 import java.util.ArrayList;
